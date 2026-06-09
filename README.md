@@ -1,3 +1,5 @@
+Tested In A15 4G (No Bootloops, Stable)
+
 This one in particular should be used in ADB AppControl.
 
  ❗LAST WARNING❗ IF YOU ATTEMPT TO RUN THIS SCRIPT ON ONE UI 7 OR 8.5, BE AWARE THAT IT IS AT YOUR OWN RISK. THIS SCRIPT WAS MADE FOR ONE UI 8 AND LIMITED DEVICES.
